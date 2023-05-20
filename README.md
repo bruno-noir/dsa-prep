@@ -1,5 +1,7 @@
 # dsa-prep
 
+##stl cheat sheet https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md
+
 ## Table of Contents
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
